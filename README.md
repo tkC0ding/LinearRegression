@@ -34,3 +34,5 @@ where &alpha; is the learnning rate
 > Clone the repository in the C Drive, or you can clone it in any directory and change the directory in the code.
 
 >df = pd.read_csv("/mnt/c/LinearRegression/Salary_dataset.csv")  #Directory for csv file
+>
+>I have used the salary dataset from kaggle
