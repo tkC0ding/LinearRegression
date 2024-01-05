@@ -36,3 +36,5 @@ where &alpha; is the learnning rate
 >df = pd.read_csv("/mnt/c/LinearRegression/Salary_dataset.csv")  #Directory for csv file
 >
 >I have used the salary dataset from kaggle
+>
+>Here are the graphs: ["Graph"](https://github.com/tkC0ding/LinearRegression/blob/main/LR.png)
