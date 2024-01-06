@@ -30,11 +30,12 @@ where &alpha; is the learnning rate
 >Note:I have not explained everything in detail, please refer to Andrew Ng's course video for the proper explanation
 
 > The code runs on WSL(Windows Subsystem for Linux) &therefore; the directory structure is based on WSL (/mnt/c/...)
-
-> Clone the repository in the C Drive, or you can clone it in any directory and change the directory in the code.
-
->df = pd.read_csv("/mnt/c/LinearRegression/Salary_dataset.csv")  #Directory for csv file
->
 >I have used the salary dataset from kaggle
 >
 >Here are the graphs: ["Graph"](https://github.com/tkC0ding/LinearRegression/blob/main/LR.png)
+
+
+- To run the code on your system, it is required to install WSL on your system as the directory structure used in the project is WSL
+- Create a folder called MachineLearning in C: and clone the repo inside the folder
+- If you want to clone in a different folder then u need to change the directory for accessing the data in LinearRegression.ipynb file
+- Change the directory on the line df = pd.read_csv(...) 
