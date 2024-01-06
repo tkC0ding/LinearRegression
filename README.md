@@ -32,7 +32,7 @@ where &alpha; is the learnning rate
 > The code runs on WSL(Windows Subsystem for Linux) &therefore; the directory structure is based on WSL (/mnt/c/...)
 >I have used the salary dataset from kaggle
 >
->Here are the graphs: ["Graph"](https://github.com/tkC0ding/LinearRegression/blob/main/LR.png)
+>Here are the [graphs](https://github.com/tkC0ding/LinearRegression/blob/main/LR.png)
 
 
 - To run the code on your system, it is required to install WSL on your system as the directory structure used in the project is WSL
