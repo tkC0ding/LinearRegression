@@ -33,6 +33,7 @@ where &alpha; is the learnning rate
 >I have used the salary dataset from kaggle
 >
 >Here are the [graphs](https://github.com/tkC0ding/LinearRegression/blob/main/LR.png)
+
 >Here are the [graphs](https://github.com/tkC0ding/LinearRegression/blob/main/loss.png) of loss function
 
 
