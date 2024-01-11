@@ -35,6 +35,16 @@ where &alpha; is the learnning rate
 >Here are the [graphs](https://github.com/tkC0ding/LinearRegression/blob/main/Graphs/)
 
 
+# Applying Feature Scaling
+
+Our X values are too large and their range is too large so we reduce that range and scale all values to a smaller scale.
+
+we substract the mean of all X values from all X values and divide it byt the range of X
+
+: X = (X - Xmean)/Xrange :
+
+where Xrange = Xmax - Xmin
+
 - To run the code on your system, it is required to install WSL on your system as the directory structure used in the project is WSL
 - Create a folder called MachineLearning in C: and clone the repo inside the folder
 - If you want to clone in a different folder then u need to change the directory for accessing the data in LinearRegression.ipynb file
